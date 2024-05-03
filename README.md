@@ -1,1 +1,1 @@
-# Llama-2-Chabot
+# Chabots with Langchain and llama-index
